@@ -1,0 +1,27 @@
+.reveal {
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: Courier New, Courier, monospace;
+        text-transform: lowercase;
+    }
+
+    hr {
+        width: 50%;
+    }
+
+    .social-icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        img {
+            margin: 0;
+            border: none;
+            box-shadow: none;
+            background: none;
+            height: 75px;
+            width: 75px;
+            margin-right: 10px;
+        }
+    }
+}
