@@ -1,7 +1,12 @@
-## web layout
----
-tables
+# web layout
 
-floats & clearfix
+tables <!-- .element: class="fragment" -->
 
-bootstrap
+floats & clearfix <!-- .element: class="fragment" -->
+
+bootstrap <!-- .element: class="fragment" -->
+
+Note:
+- First we used tables
+- Then we needed responsive design
+- floats was complicated so we used bootstrap
