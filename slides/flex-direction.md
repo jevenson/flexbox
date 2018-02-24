@@ -7,4 +7,4 @@ column switches axes <!-- .element: class="fragment" -->
 reverse available for both axes <!-- .element: class="fragment" -->
 
 Note:
-- Remember flexbox is two dimensional
+- Remember flexbox is one dimensional

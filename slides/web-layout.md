@@ -10,3 +10,4 @@ Note:
 - First we used tables
 - Then we needed responsive design
 - floats was complicated so we used bootstrap
+- bootstrap is nice, but requires a lot of extra layout containers
