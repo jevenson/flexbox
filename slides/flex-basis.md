@@ -5,3 +5,7 @@ defines initial size of the element on the main axis <!-- .element: class="fragm
 applied before calculations are made <!-- .element: class="fragment" -->
 
 actual value can be larger or smaller depending on flex-grow or shrink <!-- .element: class="fragment" -->
+
+Note:
+- Very powerful with Flex Grow and Shrink
+- Changing 2nd Child

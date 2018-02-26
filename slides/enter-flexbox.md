@@ -2,7 +2,7 @@
 
 easy & concise api <!-- .element: class="fragment" -->
 
-two dimensional element layout <!-- .element: class="fragment" -->
+one dimensional element layout <!-- .element: class="fragment" -->
 
 supported in all browsers* <!-- .element: class="fragment" -->
 

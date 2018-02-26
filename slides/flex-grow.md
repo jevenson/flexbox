@@ -1,6 +1,6 @@
 # flex-grow
 
-defines the fraction of space a child can fill <!-- .element: class="fragment" -->
+defines the fraction of remaning space a child can take <!-- .element: class="fragment" -->
 
 default is 0, child sizes itself <!-- .element: class="fragment" -->
 
